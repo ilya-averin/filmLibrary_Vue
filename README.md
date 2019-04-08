@@ -1,6 +1,6 @@
 # filmlibrary
 
-> A Vue.js project
+> A Vue.js project FilmLibrary (TodoList)
 
 ## Build Setup
 
