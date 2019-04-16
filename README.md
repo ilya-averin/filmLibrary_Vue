@@ -1,4 +1,4 @@
-# filmlibrary
+# Vuefilmlibrary
 
 > A Vue.js project FilmLibrary (TodoList)
 
